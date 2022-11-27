@@ -1,10 +1,10 @@
 {
   "name": "DeepStack Server (arm64)",
   "version": "2022.01.1",
-  "url": "https://github.com/johnolafenwa/DeepStack",
+  "url": "https://github.com/pembajak/hassio-deepstack",
   "slug": "deepstack-arm",
   "description": "DeepStack is an AI API engine that serves pre-built models and custom models on multiple edge devices locally or on your private cloud",
-  "arch": ["arm64"],
+  "arch": ["aarch64"],
   "startup": "application",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:5000]",
