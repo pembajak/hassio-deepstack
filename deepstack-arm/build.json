@@ -1,0 +1,5 @@
+{
+  "build_from": {
+    "arm64": "deepquestai/deepstack:arm64"
+  }
+}
